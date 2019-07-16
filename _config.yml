@@ -1,12 +1,12 @@
-title: karen 블로그
-description: 카렌 블로그
-author: karen
+title: John Smith
+description: My Personal Blog
+author: John Smith
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://lekaren.github.io
+github: https://github.com/codeasashu
 about: Freelance developer
 
 baseurl: ""
-url: "https://lekaren.github.io"
+url: ""
 
 allowsearch: true
 
