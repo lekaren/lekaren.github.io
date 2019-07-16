@@ -1,10 +1,10 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Chalk
+name: karen
 paginate: 25
 remote_theme : mmistakes/minimal-mistakes
-url: "https://lekaren.github.io" # add your site url (format: https://example.com)
+url: "https://lekaren/github/io" # add your site url (format: https://example.com)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Optional settings
