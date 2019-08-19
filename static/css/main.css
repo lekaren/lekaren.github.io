@@ -1,6 +1,6 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: #14135a;
+    background-color: #009587;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -55,7 +55,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #3d0f63;
+    color: #009688;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #47479d;
+    background: #007D72;
 }
 li.current-menu-item:before {
     content: "";
@@ -103,7 +103,7 @@ h2.blog-title-pro{color: #fff;}
 h2.blog-title-pro:after {
     content: "";
     display: block;
-    width: 90px;
+    width: 70px;
     height: 4px;
     margin-top: 16px;
     margin-left: 3px;

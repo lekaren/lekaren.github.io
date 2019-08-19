@@ -1,9 +1,9 @@
-title: karen
-description: 블로그
-author: karen
-logo : /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/lekaren
-about: 플레이오토 
+title: John Smith
+description: My Personal Blog
+author: John Smith
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
 
 baseurl: ""
 url: ""

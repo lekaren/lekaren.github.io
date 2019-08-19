@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-방학하고 학교에 다니면서 일러스트와 스크래치 자격증 연습을 하고 친구들과 롯데월드도 갔다
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
